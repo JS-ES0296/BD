@@ -1,0 +1,62 @@
+[
+  {
+    "Country": "France",
+    "Age": 44,
+    "Salary": 72000,
+    "Purchased": "No"
+  },
+  {
+    "Country": "Spain",
+    "Age": 27,
+    "Salary": 48000,
+    "Purchased": "Yes"
+  },
+  {
+    "Country": "Germany",
+    "Age": 30,
+    "Salary": 54000,
+    "Purchased": "No"
+  },
+  {
+    "Country": "Spain",
+    "Age": 38,
+    "Salary": 61000,
+    "Purchased": "No"
+  },
+  {
+    "Country": "Germany",
+    "Age": 40,
+    "Salary": "",
+    "Purchased": "Yes"
+  },
+  {
+    "Country": "France",
+    "Age": 35,
+    "Salary": 58000,
+    "Purchased": "Yes"
+  },
+  {
+    "Country": "Spain",
+    "Age": "",
+    "Salary": 52000,
+    "Purchased": "No"
+  },
+  {
+    "Country": "France",
+    "Age": 48,
+    "Salary": 79000,
+    "Purchased": "Yes"
+  },
+  {
+    "Country": "Germany",
+    "Age": 50,
+    "Salary": 83000,
+    "Purchased": "No"
+  },
+  {
+    "Country": "France",
+    "Age": 37,
+    "Salary": 67000,
+    "Purchased": "Yes"
+  }
+]
